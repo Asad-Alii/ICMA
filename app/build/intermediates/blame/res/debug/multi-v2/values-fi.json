@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "C:\\Users\\Asad Ali\\Desktop\\Local Repo\\ICMA\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-fi\\values-fi.xml",
+            "outputFile": "C:\\Users\\Asad Ali\\Documents\\GitHub\\ICMA\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-fi\\values-fi.xml",
             "map": [
                 {
                     "source": "C:\\Users\\Asad Ali\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-basement-15.0.1.aar\\5acdae02daf15bd172719f1f3bf9bceb\\res\\values-fi\\values.xml",

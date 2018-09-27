@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "C:\\Users\\Asad Ali\\Desktop\\Local Repo\\ICMA\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-mn\\values-mn.xml",
+            "outputFile": "C:\\Users\\Asad Ali\\Documents\\GitHub\\ICMA\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-mn\\values-mn.xml",
             "map": [
                 {
                     "source": "C:\\Users\\Asad Ali\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\983d0a04a0b55607e2c0b91d277ed4fe\\res\\values-mn\\values-mn.xml",
